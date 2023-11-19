@@ -364,6 +364,16 @@ public class MainActivity extends AppCompatActivity implements OnMapReadyCallbac
         Bitmap well_prop_icon = BitmapFactory.decodeResource(getResources(), R.drawable.waterglass_blue);
         putGeoJSONtoMap(json_prop, well_prop_icon, ICON_SIZE_PROPOSAL, "type", true, 9999);
 
+        // show all shelter proposals
+        JSONObject json_prop_sh = fileToJSON(R.raw.shelter_proposals);
+        Bitmap shelt_prop_icon = BitmapFactory.decodeResource(getResources(), R.drawable.umbrella);
+        putGeoJSONtoMap(json_prop_sh, shelt_prop_icon, ICON_SIZE_PROPOSAL, "type", true, 9999);
+
+        // show all shelter proposals
+        JSONObject json_prop_tree = fileToJSON(R.raw.greenup_proposals);
+        Bitmap tree_prop_icon = BitmapFactory.decodeResource(getResources(), R.drawable.tree);
+        putGeoJSONtoMap(json_prop_tree, tree_prop_icon, ICON_SIZE_PROPOSAL, "type", true, 9999);
+
 
         // Load style of map.
         try {

@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "shelter_proposals",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "id": 1, "type": "public roofing", "name": "shelter1", "stars": 2, "votes": 123, "description": "please add a roof to the tram stop" }, "geometry": { "type": "Point", "coordinates": [ 11.551246298214245, 48.156639294839913 ] } },
+{ "type": "Feature", "properties": { "id": 2, "type": "public roofing", "name": "shelter2", "stars": 5, "votes": 4060, "description": "it rains everyday at this bus stop" }, "geometry": { "type": "Point", "coordinates": [ 11.515416418131787, 48.113267631614896 ] } }
+]
+}
