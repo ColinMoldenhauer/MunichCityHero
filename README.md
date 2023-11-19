@@ -25,5 +25,5 @@ Smart urban planning through geo-based user feedback.
 - Colin Moldenhauer
 
 ## Visuals
-<img align="left" src="gif2.gif" alt="" height="140"/>
-<img align="right" src="gif3.gif" alt="" height="140"/>
+<img align="left" src="gif2.gif" alt="" height="300"/>
+<img align="left" src="gif3.gif" alt="" height="300"/>
