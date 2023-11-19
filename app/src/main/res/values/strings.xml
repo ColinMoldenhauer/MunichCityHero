@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Munich City Hero</string>
+    <string name="test">Test</string>
+    <string-array name="asset_types">
+        <item>City Green Up 🌳</item>
+        <item>Water Fountain 💧</item>
+        <item>Public Roofing ☂️</item>
+    </string-array>
+
+</resources>
