@@ -17,3 +17,13 @@ Smart urban planning through geo-based user feedback.
       </meta-data>
     ...
   ```
+  
+## Team
+- Ulf Kasolowsky
+- Maresa Fees
+- Stefanie Albers
+- Colin Moldenhauer
+
+## Visuals
+<img align="left" src="gif2.gif" alt="" height="140"/>
+<img align="right" src="gif3.gif" alt="" height="140"/>
